@@ -72,8 +72,17 @@ h1 {
   font-size: 0;
 }
 
+.kicker {
+  margin: 24px 0 0;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
 .tagline {
-  margin: 28px 0 0;
+  margin: 10px 0 0;
   font-size: 1.15rem;
   color: var(--text-dim);
   max-width: 46ch;
