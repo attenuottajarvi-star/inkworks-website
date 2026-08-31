@@ -4,8 +4,8 @@
   --bg-2: #171b1d;
   --silver: #c9cccf;
   --silver-dim: #8b8f93;
-  --gold: #cda45c;
-  --gold-bright: #e6c07f;
+  --blue: #7fa8d4;
+  --blue-bright: #a8c8e8;
   --text: #e9e9ea;
   --text-dim: #a7abae;
   --border: #232629;
@@ -78,7 +78,7 @@ h1 {
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--gold);
+  color: var(--blue);
 }
 
 .tagline {
@@ -105,7 +105,7 @@ h1 {
 .feature h3 {
   margin: 0 0 6px;
   font-size: 1rem;
-  color: var(--gold-bright);
+  color: var(--blue-bright);
   font-weight: 600;
 }
 
@@ -135,7 +135,7 @@ section.policy-section {
 section.policy-section h2 {
   font-size: 1.08rem;
   font-weight: 700;
-  color: var(--gold-bright);
+  color: var(--blue-bright);
   margin: 0 0 8px;
 }
 
@@ -145,12 +145,12 @@ section.policy-section p {
 }
 
 a {
-  color: var(--gold);
+  color: var(--blue);
   text-decoration: none;
 }
 
 a:hover {
-  color: var(--gold-bright);
+  color: var(--blue-bright);
   text-decoration: underline;
 }
 
@@ -159,7 +159,7 @@ a:hover {
   margin: 18px 0 4px;
   font-size: 1.3rem;
   font-weight: 600;
-  color: var(--gold-bright);
+  color: var(--blue-bright);
 }
 
 .beta-note {
@@ -194,5 +194,5 @@ footer nav {
 }
 
 .back-link:hover {
-  color: var(--gold-bright);
+  color: var(--blue-bright);
 }
